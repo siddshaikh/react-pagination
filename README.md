@@ -1,2 +1,2 @@
 # react-pagination
-Created with CodeSandbox
+#Just using javascript no external libraries needed
